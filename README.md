@@ -35,60 +35,20 @@ Currently based in **São Paulo, Brazil 🇧🇷**.
 
 ---
 
-## 🚀 What I build
 
-### Automation Systems
-Workflow automations integrating APIs, databases and messaging platforms using technologies such as **n8n, Redis, PostgreSQL and Supabase**.
-
-### Full-Stack Applications
-Web applications with authentication, business logic, database integration and responsive interfaces.
-
-### Software Engineering Projects
-Academic and personal projects involving **Java, C#, networking, Windows Server, DNS, Active Directory and backend development**.
-
-### Game Development
-Previous experience developing systems and gameplay mechanics with **Lua / Roblox**.
-
----
-
-## 📌 Featured Projects
-
-<!-- Replace the links below with your repositories -->
 
 ### 🔹 Automation Platform
 Automation workflows integrating APIs, databases and messaging services.
 
 `n8n` `PostgreSQL` `Redis` `APIs`
 
-[View project →](LINK)
-
 ### 🔹 Full-Stack Web Application
 Application focused on real-world business requirements, authentication and data management.
 
 `React` `JavaScript` `Supabase`
-
-[View project →](LINK)
 
 ### 🔹 Java / C# Projects
 Object-oriented programming, APIs, data structures and academic software engineering projects.
 
 `Java` `C#`
 
-[View projects →](LINK)
-
----
-
-## 📈 Currently focusing on
-
-- Backend development
-- Java & Spring ecosystem
-- TypeScript
-- System design
-- Automation
-- Cloud & DevOps fundamentals
-
----
-
-## 📫 Let's connect
-
-[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](mailto:YOUR_EMAIL)
