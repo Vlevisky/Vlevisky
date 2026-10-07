@@ -1,39 +1,94 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Davi Paiao 👋
 
-###
+**Software Engineering student focused on Full-Stack Development and Automation.**
 
-<p align="left">My name is David and i am from brazil</p>
+I like building practical software — from web applications and backend systems to automation workflows that solve repetitive problems.
 
-###
+Currently based in **São Paulo, Brazil 🇧🇷**.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 👨‍💻 About me
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Django, Java and React<br><br></p>
+- 🎓 Software Engineering student at FIAP
+- 💻 Building full-stack applications and automation solutions
+- ⚙️ Experience with web development, APIs, databases and workflow automation
+- 🤖 Interested in backend development, automation and scalable systems
+- 🌎 Portuguese native and fluent in English
+- 📚 Currently improving my Java, TypeScript and software architecture skills
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🛠 Tech Stack
 
-###
+### Languages
+`Java` `C#` `JavaScript` `TypeScript` `Python` `Lua` `SQL`
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+### Web
+`HTML` `CSS` `React` `Node.js`
 
-###
+### Backend & Databases
+`PostgreSQL` `Supabase` `Redis` `REST APIs`
+
+### Automation & Tools
+`n8n` `Git` `GitHub` `Docker` `VirtualBox`
+
+---
+
+## 🚀 What I build
+
+### Automation Systems
+Workflow automations integrating APIs, databases and messaging platforms using technologies such as **n8n, Redis, PostgreSQL and Supabase**.
+
+### Full-Stack Applications
+Web applications with authentication, business logic, database integration and responsive interfaces.
+
+### Software Engineering Projects
+Academic and personal projects involving **Java, C#, networking, Windows Server, DNS, Active Directory and backend development**.
+
+### Game Development
+Previous experience developing systems and gameplay mechanics with **Lua / Roblox**.
+
+---
+
+## 📌 Featured Projects
+
+<!-- Replace the links below with your repositories -->
+
+### 🔹 Automation Platform
+Automation workflows integrating APIs, databases and messaging services.
+
+`n8n` `PostgreSQL` `Redis` `APIs`
+
+[View project →](LINK)
+
+### 🔹 Full-Stack Web Application
+Application focused on real-world business requirements, authentication and data management.
+
+`React` `JavaScript` `Supabase`
+
+[View project →](LINK)
+
+### 🔹 Java / C# Projects
+Object-oriented programming, APIs, data structures and academic software engineering projects.
+
+`Java` `C#`
+
+[View projects →](LINK)
+
+---
+
+## 📈 Currently focusing on
+
+- Backend development
+- Java & Spring ecosystem
+- TypeScript
+- System design
+- Automation
+- Cloud & DevOps fundamentals
+
+---
+
+## 📫 Let's connect
+
+[LinkedIn](YOUR_LINKEDIN) • [Portfolio](YOUR_PORTFOLIO) • [Email](mailto:YOUR_EMAIL)
